@@ -1,0 +1,269 @@
+[
+  {
+    "id": "1",
+    "name": "Premium Business Laptop | Core i5 1235G | 14 inch, 8GB RAM, 512GB SSD, Windows 10 Pro",
+    "coverImage": "https://images.unsplash.com/photo-1648197395199-e7f8d3dd0a3c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1911&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1555340627-20a4c7029632?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80",
+      "https://images.unsplash.com/photo-1595245150898-339b88a9d477?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1544603396-e4a163c7c658?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+      "https://images.unsplash.com/photo-1595245150759-dfc2b400b940?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "price": 64999,
+    "description": "Appreciate this laptop's smooth operations and strong performance, which is packed with innovative features. With the help of a graphics card and processor from Intel's 12th generation, you can easily perform at your peak. Additionally, this laptop's integrated 4USB connections enable you to do your tasks quickly. Fast-booting technology on this laptop also makes it possible for you to take everything you need with you. Moreover, because of its modest weight, it is portable and a fantastic travel companion.",
+    "category": ["laptop", "computer", "electronics"],
+    "reviews": [
+      {
+        "id": "f0c2e9a8b3d6e5f1c8a7b0e",
+        "title": "Good Product",
+        "description": "This is a good product. I like it very much. I will buy it again.",
+        "rating": 3.5,
+        "user": {
+          "id": "4f5c2d7e1a8b3f9e0c6a5b8d",
+          "name": "Maria Doe",
+          "email": "johndoe@mail.com",
+          "role": "user"
+        }
+      },
+      {
+        "id": "3c2d1e5f4a8b7c6d5e0f9a",
+        "title": "Nice Product",
+        "description": "I like this product. Packaging is good.",
+        "rating": 4.4,
+        "user": {
+          "id": "b1a2c3d4e5f6a7b8c9d0",
+          "name": "Lily Doe",
+          "email": "lily.doe@email.com",
+          "role": "user"
+        }
+      }
+    ],
+    "details": {
+      "processor": "Intel Core i5 11th Gen",
+      "ram": "8 GB DDR4 3200 MHz",
+      "storage": "512 GB SSD",
+      "displaySize": "35.56 cm (14 inch)",
+      "displayResolution": "1920 x 1080 Pixel",
+      "keyboard": "Full Size Island-style Backlit Keyboard",
+      "pointerDevice": "Touchpad",
+      "internalMic": "Built-in Microphone",
+      "wirelessLan": "Intel Wi-Fi 6 AX201 (2x2)",
+      "bluetooth": "v5.2",
+      "usbSlots": "1 x SuperSpeed USB Type C, 2 x SuperSpeed USB Type A, 1 x USB 2.0 Type A",
+      "headphoneJack": "1 x Headphone/Microphone Combo Jack"
+    },
+    "about": [
+      "This laptop is a great choice for those who want to get the most out of their computing experience. It has a powerful processor and plenty of storage space, so you can store all your files without worrying about running out of room. The battery life is also impressive, lasting up to 10 hours on a single charge. You'll be able to work or play for hours without having to plug in!",
+      "This laptop is perfect for anyone who needs a powerful computer that can handle anything they throw at it. It's also great for students because it has an affordable price tag and long battery life. You won't regret buying this laptop!"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Gaming Laptop | Core i7 12650H | 14 inch, 16GB RAM, 512GB SSD, NVIDIA GeForce RTX 4050",
+    "coverImage": "https://images.unsplash.com/photo-1605134513573-384dcf99a44c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1640695257754-7e2932f9ad0f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1625266008996-67bc5f9ffb40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1964&q=80",
+      "https://images.unsplash.com/photo-1581351123004-757df051db8e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1887&q=80"
+    ],
+    "price": 99999,
+    "description": "Appreciate this laptop's smooth operations and strong performance, which is packed with innovative features. With the help of a graphics card and processor from Intel's 12th generation, you can easily perform at your peak. Additionally, this laptop's integrated 4USB connections enable you to do your tasks quickly. Fast-booting technology on this laptop also makes it possible for you to take everything you need with you. Moreover, because of its modest weight, it is portable and a fantastic travel companion.",
+    "category": ["laptop", "computer", "electronics"],
+    "reviews": [
+      {
+        "id": "f0c2e9a8b3d6e5f1c8a7b0e",
+        "title": "Good Product",
+        "description": "This is a good product. I like it very much. I will buy it again.",
+        "rating": 3.5,
+        "user": {
+          "id": "4f5c2d7e1a8b3f9e0c6a5b8d",
+          "name": "Maria Doe",
+          "email": "johndoe@mail.com",
+          "role": "user"
+        }
+      },
+      {
+        "id": "3c2d1e5f4a8b7c6d5e0f9a",
+        "title": "Nice Product",
+        "description": "I like this product. Packaging is good.",
+        "rating": 4.4,
+        "user": {
+          "id": "b1a2c3d4e5f6a7b8c9d0",
+          "name": "Lily Doe",
+          "email": "lily.doe@email.com",
+          "role": "user"
+        }
+      }
+    ],
+    "details": {
+      "processor": "Intel Core i7 12th Gen",
+      "ram": "16 GB DDR5 6400 MHz",
+      "storage": "512 GB SSD",
+      "displaySize": "35.56 cm (14 inch)",
+      "displayResolution": "1920 x 1080 Pixel",
+      "keyboard": "Full Size Island-style Backlit Keyboard",
+      "pointerDevice": "Touchpad",
+      "internalMic": "Built-in Microphone",
+      "wirelessLan": "Intel Wi-Fi 6 AX201 (2x2)",
+      "bluetooth": "v5.2",
+      "usbSlots": "2 x SuperSpeed USB Type C, 2 x SuperSpeed USB Type A, 1 x USB 2.0 Type A",
+      "headphoneJack": "1 x Headphone/Microphone Combo Jack"
+    },
+    "about": [
+      "This laptop is a great choice for those who want to get the most out of their computing experience. It has a powerful processor and plenty of storage space, so you can store all your files without worrying about running out of room. The battery life is also impressive, lasting up to 10 hours on a single charge. You'll be able to work or play for hours without having to plug in!",
+      "This laptop is perfect for anyone who needs a powerful computer that can handle anything they throw at it. It's also great for students because it has an affordable price tag and long battery life. You won't regret buying this laptop!"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Premium keyboard | 10 m Range | 104 Keys",
+    "coverImage": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1936&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1572916118970-fb5c8a1cb3d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+      "https://images.unsplash.com/photo-1529236183275-4fdcf2bc987e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2067&q=80",
+      "https://images.unsplash.com/photo-1510674485131-dc88d96369b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1898&q=80"
+    ],
+    "price": 999,
+    "description": "Appreciate this keyboard's smooth operations and strong performance, which is packed with innovative features. With the help of a wireless connection, you can easily perform at your peak. Additionally, this keyboard's integrated 4USB connections enable you to do your tasks quickly. Fast-booting technology on this keyboard also makes it possible for you to take everything you need with you. Moreover, because of its modest weight, it is portable and a fantastic travel companion.",
+    "category": ["keyboard", "computer", "electronics"],
+    "reviews": [
+      {
+        "id": "f0c2e9a8b3d6e5f1c8a7b0e",
+        "title": "Good Product",
+        "description": "This is a good product. I like it very much. I will buy it again.",
+        "rating": 3.5,
+        "user": {
+          "id": "4f5c2d7e1a8b3f9e0c6a5b8d",
+          "name": "Maria Doe",
+          "email": "johndoe@mail.com",
+          "role": "user"
+        }
+      },
+      {
+        "id": "3c2d1e5f4a8b7c6d5e0f9a",
+        "title": "Nice Product",
+        "description": "I like this product. Packaging is good.",
+        "rating": 4.4,
+        "user": {
+          "id": "b1a2c3d4e5f6a7b8c9d0",
+          "name": "Lily Doe",
+          "email": "lily.doe@email.com",
+          "role": "user"
+        }
+      }
+    ],
+    "details": {
+      "connectivity": "Wired",
+      "range": "10 m",
+      "keys": "104",
+      "keyboardType": "Standard",
+      "keyboardLayout": "QWERTY",
+      "keyMechanism": "Membrane",
+      "keyTravel": "2.0 mm",
+      "keyLife": "10 million keystrokes"
+    },
+    "about": [
+      "This keyboard is a great choice for those who want to get the most out of their computing experience. It has a powerful processor and plenty of storage space, so you can store all your files without worrying about running out of room. The battery life is also impressive, lasting up to 10 hours on a single charge. You'll be able to work or play for hours without having to plug in!",
+      "This keyboard is perfect for anyone who needs a powerful computer that can handle anything they throw at it. It's also great for students because it has an affordable price tag and long battery life. You won't regret buying this keyboard!"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Gaming Mouse | 10 m Range | 6 Buttons",
+    "coverImage": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1965&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1619334084350-b093f0a9b40e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "https://images.unsplash.com/photo-1616071358409-ef30a44a90bb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    ],
+    "price": 899,
+    "description": "Appreciate this mouse's smooth operations and strong performance, which is packed with innovative features. With the help of a wireless connection, you can easily perform at your peak. Additionally, this mouse's integrated 4USB connections enable you to do your tasks quickly. Fast-booting technology on this mouse also makes it possible for you to take everything you need with you. Moreover, because of its modest weight, it is portable and a fantastic travel companion.",
+    "category": ["mouse", "computer", "electronics"],
+    "reviews": [
+      {
+        "id": "f0c2e9a8b3d6e5f1c8a7b0e",
+        "title": "Good Product",
+        "description": "This is a good product. I like it very much. I will buy it again.",
+        "rating": 3.5,
+        "user": {
+          "id": "4f5c2d7e1a8b3f9e0c6a5b8d",
+          "name": "Maria Doe",
+          "email": "johndoe@mail.com",
+          "role": "user"
+        }
+      },
+      {
+        "id": "3c2d1e5f4a8b7c6d5e0f9a",
+        "title": "Nice Product",
+        "description": "I like this product. Packaging is good.",
+        "rating": 4.4,
+        "user": {
+          "id": "b1a2c3d4e5f6a7b8c9d0",
+          "name": "Lily Doe",
+          "email": "lily.doe@email.com",
+          "role": "user"
+        }
+      }
+    ],
+    "details": {
+      "connectivity": "Wireless",
+      "range": "10 m",
+      "buttons": "6",
+      "scrollWheel": "Yes",
+      "sensor": "Optical Sensor"
+    },
+    "about": [
+      "This mouse is a great choice for those who want to get the most out of their computing experience. It has a powerful processor and plenty of storage space, so you can store all your files without worrying about running out of room. The battery life is also impressive, lasting up to 10 hours on a single charge. You'll be able to work or play for hours without having to plug in!",
+      "This mouse is perfect for anyone who needs a powerful computer that can handle anything they throw at it. It's also great for students because it has an affordable price tag and long battery life. You won't regret buying this mouse!"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Gaming Headset | 7.1 Surround Sound | 50 mm Driver",
+    "coverImage": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2065&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1884&q=80",
+      "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1888&q=80"
+    ],
+    "price": 1999,
+    "description": "Appreciate this headset's smooth operations and strong performance, which is packed with innovative features. With the help of a wireless connection, you can easily perform at your peak. Additionally, this headset's integrated 4USB connections enable you to do your tasks quickly. Fast-booting technology on this headset also makes it possible for you to take everything you need with you. Moreover, because of its modest weight, it is portable and a fantastic travel companion.",
+    "category": ["headset", "computer", "electronics"],
+    "reviews": [
+      {
+        "id": "f0c2e9a8b3d6e5f1c8a7b0e",
+        "title": "Good Product",
+        "description": "This is a good product. I like it very much. I will buy it again.",
+        "rating": 3.5,
+        "user": {
+          "id": "4f5c2d7e1a8b3f9e0c6a5b8d",
+          "name": "Maria Doe",
+          "email": "johndoe@mail.com",
+          "role": "user"
+        }
+      },
+      {
+        "id": "3c2d1e5f4a8b7c6d5e0f9a",
+        "title": "Nice Product",
+        "description": "I like this product. Packaging is good.",
+        "rating": 4.4,
+        "user": {
+          "id": "b1a2c3d4e5f6a7b8c9d0",
+          "name": "Lily Doe",
+          "email": "lily.doe@email.com",
+          "role": "user"
+        }
+      }
+    ],
+    "details": {
+      "connectivity": "Wired",
+      "surroundSound": "7.1",
+      "driver": "50 mm",
+      "frequencyResponse": "20 Hz - 20 KHz",
+      "impedance": "32 Ohm",
+      "sensitivity": "105 dB/mW"
+    },
+    "about": [
+      "This headset is a great choice for those who want to get the most out of their computing experience. It has a powerful processor and plenty of storage space, so you can store all your files without worrying about running out of room. The battery life is also impressive, lasting up to 10 hours on a single charge. You'll be able to work or play for hours without having to plug in!",
+      "This headset is perfect for anyone who needs a powerful computer that can handle anything they throw at it. It's also great for students because it has an affordable price tag and long battery life. You won't regret buying this headset!"
+    ]
+  }
+]
